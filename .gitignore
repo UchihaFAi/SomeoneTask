@@ -1,0 +1,17 @@
+# Личные игровые данные — НЕ коммитить.
+roster_raw.json
+roster_clean.json
+ships_clean.json
+*.roster.json
+out/
+
+# Comlink (скачивается локально, не хранится в репозитории)
+swgoh-comlink
+swgoh-comlink-*
+comlink.log
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
