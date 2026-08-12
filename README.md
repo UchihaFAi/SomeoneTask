@@ -11,6 +11,8 @@
 
 ## Быстрый старт
 
+**Windows:** подробная пошаговая инструкция — [WINDOWS.md](WINDOWS.md).
+
 ```bash
 # 1. Comlink: скачать бинарник под свою ОС со страницы релизов
 #    https://github.com/swgoh-utils/swgoh-comlink/releases
