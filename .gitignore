@@ -4,8 +4,10 @@ roster_clean.json
 ships_clean.json
 *.roster.json
 out/
+ally_code.txt
 
 # Comlink (скачивается локально, не хранится в репозитории)
+comlink/
 swgoh-comlink
 swgoh-comlink-*
 comlink.log

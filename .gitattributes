@@ -1,0 +1,6 @@
+# Батники Windows требуют CRLF — иначе ломаются goto и метки.
+*.bat text eol=crlf
+
+# Остальное держим в LF.
+*.py text eol=lf
+*.md text eol=lf
